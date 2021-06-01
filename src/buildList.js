@@ -1,8 +1,8 @@
 const { version } = require("../package.json");
 
-const mainnet = require("./tokens/mainnet.json");
-const rinkeby = require("./tokens/rinkeby.json");
-const matic = require("./tokens/matic.json");
+// const mainnet = require("./tokens/mainnet.json");
+// const rinkeby = require("./tokens/rinkeby.json");
+// const matic = require("./tokens/matic.json");
 const xdai = require("./tokens/xdai.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -19,9 +19,9 @@ module.exports = function buildList() {
       "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dex-swap.png",
     keywords: ["DEXSwap", "matic", "ethereum", "moonbeam"],
     tokens: [
-      ...mainnet,
-      ...rinkeby,
-      ...matic,
+      // ...mainnet,
+      // ...rinkeby,
+      // ...matic,
       ...xdai,
       // ...moonbase,
     ]

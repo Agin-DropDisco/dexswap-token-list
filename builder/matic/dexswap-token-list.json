@@ -1,0 +1,75 @@
+{
+  "name": "DEXSwap Token List",
+  "timestamp": "2021-06-01T12:09:41.381Z",
+  "version": {
+    "major": 6,
+    "minor": 29,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dex-swap.png",
+  "keywords": [
+    "DEXSwap",
+    "matic",
+    "ethereum",
+    "moonbeam"
+  ],
+  "tokens": [
+    {
+      "chainId": 80001,
+      "address": "0xB24F550B6B2c9a1Ea919AFEbf0C3BE803ba2caa5",
+      "name": "DexAlpha",
+      "decimals": 18,
+      "symbol": "DexAlpha",
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexAlpha.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0xe202c80689F78cbCf7ACCD5Ff9F8d7151B797f36",
+      "name": "DexBeta",
+      "decimals": 18,
+      "symbol": "DexBeta",
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexBeta.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x4d7f1370bDce596ef61383C8f7140d84Ee8516bE",
+      "name": "DexDelta",
+      "decimals": 18,
+      "symbol": "DexDelta",
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexDelta.png"
+    },
+    {
+      "chainId": 80001,
+      "address": "0x8a29E2B19120060753f9983e2f850223461Fed55",
+      "name": "DexSwap",
+      "decimals": 18,
+      "symbol": "DEXS",
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dex-swap.png"
+    },
+    {
+      "name": "Ether",
+      "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x4aAeB0c6523e7aa5Adc77EAD9b031ccdEA9cB1c3",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped Matic",
+      "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    }
+  ]
+}
