@@ -1,6 +1,6 @@
 {
   "name": "dexswap-token-list",
-  "version": "6.29.0",
+  "version": "v0.1.1",
   "description": "◦ The DEXSwap default token list",
   "main": "build/dexswap-token-list.json",
   "scripts": {
