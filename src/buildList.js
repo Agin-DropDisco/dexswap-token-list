@@ -16,7 +16,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dex-swap.png",
+      "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexSwap.png",
     keywords: ["DEXSwap", "matic", "ethereum", "moonbeam"],
     tokens: [
       ...mainnet,

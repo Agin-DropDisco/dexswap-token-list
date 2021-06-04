@@ -1,13 +1,13 @@
 {
   "name": "DEXSwap Token List",
-  "timestamp": "2021-06-01T05:51:01.439Z",
+  "timestamp": "2021-06-03T23:59:46.510Z",
   "version": {
     "major": 6,
     "minor": 29,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dex-swap.png",
+  "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexSwap.png",
   "keywords": [
     "DEXSwap",
     "matic",
@@ -336,35 +336,35 @@
     },
     {
       "chainId": 4,
-      "address": "0x57f4f7795226ddA3EAFc677e2DEaD7659b8fb281",
+      "address": "0x2e79239E6EE8Bcc971DB565f07f213bf92E4c701",
       "name": "DexAlpha",
       "decimals": 18,
       "symbol": "DexAlpha",
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexAlpha.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexAlpha.png"
     },
     {
       "chainId": 4,
-      "address": "0x7fF776fBb0363891B80c5Ae311746899066EC408",
+      "address": "0xe398307704936Eac791E24d6EfE6EB2798E3eEeA",
       "name": "DexBeta",
       "decimals": 18,
       "symbol": "DexBeta",
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexBeta.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexBeta.png"
     },
     {
       "chainId": 4,
-      "address": "0x9074d8DC83BA54753BF39ba7E42A153C8fdd735e",
+      "address": "0x776eDAceA0C9EC09C0c83868E5E9849bEB481882",
       "name": "DexDelta",
       "decimals": 18,
       "symbol": "DexDelta",
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexDelta.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexDelta.png"
     },
     {
       "chainId": 4,
-      "address": "0xc23B40418E16c47E105a61a28ec4c791a1d6372b",
+      "address": "0xd87e59311e6B19C1cf88163693944d9Bb21eF0e3",
       "name": "DexSwap",
       "decimals": 18,
       "symbol": "DEXS",
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dex-swap.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexSwap.png"
     },
     {
       "chainId": 4,
@@ -606,35 +606,35 @@
     },
     {
       "chainId": 80001,
-      "address": "0xB24F550B6B2c9a1Ea919AFEbf0C3BE803ba2caa5",
+      "address": "0xE54371b3dE0DC1a6db8F7e860EcEd53BB76558a3",
       "name": "DexAlpha",
       "decimals": 18,
       "symbol": "DexAlpha",
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexAlpha.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexAlpha.png"
     },
     {
       "chainId": 80001,
-      "address": "0xe202c80689F78cbCf7ACCD5Ff9F8d7151B797f36",
+      "address": "0x2C64F055DC3b3D050C6e78F51153D54dfaCB0bB5",
       "name": "DexBeta",
       "decimals": 18,
       "symbol": "DexBeta",
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexBeta.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexBeta.png"
     },
     {
       "chainId": 80001,
-      "address": "0x4d7f1370bDce596ef61383C8f7140d84Ee8516bE",
+      "address": "0xE0977e98c7D9d6F596c7700c0C9a27c0aA39Af31",
       "name": "DexDelta",
       "decimals": 18,
       "symbol": "DexDelta",
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexDelta.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexDelta.png"
     },
     {
       "chainId": 80001,
-      "address": "0x8a29E2B19120060753f9983e2f850223461Fed55",
+      "address": "0x24B67D09d8F965b54837F2d89cDC28D694f0e83f",
       "name": "DexSwap",
       "decimals": 18,
       "symbol": "DEXS",
-      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dex-swap.png"
+      "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexSwap.png"
     },
     {
       "name": "Ether",
@@ -646,7 +646,7 @@
     },
     {
       "name": "Tether USD",
-      "address": "0x4aAeB0c6523e7aa5Adc77EAD9b031ccdEA9cB1c3",
+      "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 80001,
@@ -654,7 +654,7 @@
     },
     {
       "name": "Wrapped Matic",
-      "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
+      "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
       "symbol": "WMATIC",
       "decimals": 18,
       "chainId": 80001,

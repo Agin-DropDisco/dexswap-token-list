@@ -1,34 +1,34 @@
 [{
     "chainId": 80001,
-    "address": "0xB24F550B6B2c9a1Ea919AFEbf0C3BE803ba2caa5",
+    "address": "0xE54371b3dE0DC1a6db8F7e860EcEd53BB76558a3",
     "name": "DexAlpha",
     "decimals": 18,
     "symbol": "DexAlpha",
-    "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexAlpha.png"
+    "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexAlpha.png"
   },
   {
     "chainId": 80001,
-    "address": "0xe202c80689F78cbCf7ACCD5Ff9F8d7151B797f36",
+    "address": "0x2C64F055DC3b3D050C6e78F51153D54dfaCB0bB5",
     "name": "DexBeta",
     "decimals": 18,
     "symbol": "DexBeta",
-    "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexBeta.png"
+    "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexBeta.png"
   },
   {
     "chainId": 80001,
-    "address": "0x4d7f1370bDce596ef61383C8f7140d84Ee8516bE",
+    "address": "0xE0977e98c7D9d6F596c7700c0C9a27c0aA39Af31",
     "name": "DexDelta",
     "decimals": 18,
     "symbol": "DexDelta",
-    "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dexDelta.png"
+    "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexDelta.png"
   },
   {
     "chainId": 80001,
-    "address": "0x8a29E2B19120060753f9983e2f850223461Fed55",
+    "address": "0x24B67D09d8F965b54837F2d89cDC28D694f0e83f",
     "name": "DexSwap",
     "decimals": 18,
     "symbol": "DEXS",
-    "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/main/DEXSwap/Token/dex-swap.png"
+    "logoURI": "https://raw.githubusercontent.com/Agin-DropDisco/dexswap-token-logo/logo-dexswap/dexSwap.png"
   },
   {
     "name": "Ether",
@@ -40,7 +40,7 @@
   },
   {
     "name": "Tether USD",
-    "address": "0x4aAeB0c6523e7aa5Adc77EAD9b031ccdEA9cB1c3",
+    "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 80001,
@@ -48,7 +48,7 @@
   },
   {
     "name": "Wrapped Matic",
-    "address": "0x9c3C9283D3e44854697Cd22D3Faa240Cfb032889",
+    "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
     "symbol": "WMATIC",
     "decimals": 18,
     "chainId": 80001,
